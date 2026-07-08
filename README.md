@@ -70,7 +70,7 @@
 
 
 dashboard
-![dashboard]()
+![dashboard](https://github.com/Doskaks/kuber-homeworks_1.1_03.25/blob/main/1_dashboad.jpg)
 
 
 ------
@@ -83,12 +83,11 @@ dashboard
 
 ### Решение
 
-
 Вывод команды kubectl get nodes
-![kubectl get nodes]()
+![kubectl get nodes](https://github.com/Doskaks/kuber-homeworks_1.1_03.25/blob/main/2_kubectl%20get%20nodes.jpg)
 
 dashboard
-![dashboard]()
+![dashboard](https://github.com/Doskaks/kuber-homeworks_1.1_03.25/blob/main/2_dashboad.jpg)
 
 ------
 
